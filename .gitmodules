@@ -79,7 +79,7 @@
 [submodule "Tools/simulation/gz"]
 	path = Tools/simulation/gz
 	url = git@github.com:laddcs/PX4-gazebo-models.git
-	branch = main
+	branch = thermal_cam
 [submodule "boards/modalai/voxl2/libfc-sensor-api"]
 	path = src/modules/muorb/apps/libfc-sensor-api
 	url = https://gitlab.com/voxl-public/voxl-sdk/core-libs/libfc-sensor-api.git
